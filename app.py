@@ -159,7 +159,7 @@ USER = {
     'identifiant': 'client01',
     'nom': 'CRETANE',
     'prenom': 'STEPHANE',
-    'solde': 3,759,689,00 €
+    'solde': 3,759,689,00
 
 €
 ,
