@@ -158,12 +158,12 @@ def envoyer_email_confirmation(email_dest, data):
 USER = {
     'identifiant': 'client01',
     'nom': 'CRETANE',
-    'prenom': 'STEPHANE',
+    'prenom': 'Stéphane',
     'solde': 3759689
 ,
     'carte_numero': '**** **** **** 4589',
     'carte_expiration': '12/28',
-    'email': 'stephanecretal@gmail.com',
+    'email': 'stephane.cretane@gmail.com',
 }
 
 TRANSACTIONS = [
@@ -212,8 +212,8 @@ SERVICES = [
 ]
 
 DOMICILIATION = {
-    'titulaire': 'STEPHANE CRETAL',
-    'email': 'stephanecretal@gmail.com',
+    'titulaire': 'STEPHANE CRETANE',
+    'email': 'stephane.cretane@gmail.com',
     'adresse': 'bastia 20200, au 1, Rue du Juge Falcone',
     'code_postal': '20200',
     'ville': 'BASTIA',
