@@ -159,7 +159,7 @@ USER = {
     'identifiant': 'client01',
     'nom': 'CRETANE',
     'prenom': 'STEPHANE',
-    'solde': 375968900
+    'solde': 3,759,689
 ,
     'carte_numero': '**** **** **** 4589',
     'carte_expiration': '12/28',
